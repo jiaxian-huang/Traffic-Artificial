@@ -18,11 +18,11 @@ The google colab file link for yolov8 object detection and tracking is provided 
 
 - Clone the repository
 ```
-git clone https://github.com/jiaxian-huang/Traffic-Artificial.git
+git clone https://github.com/jiaxian-huang/Traffic-Artificial-Intelligence.git
 ```
 - Goto the cloned folder.
 ```
-cd Traffic-Artificial
+cd Traffic-Artificial-Intelligence
 ```
 - Install the dependecies
 ```
